@@ -1,81 +1,58 @@
-# Hi, I'm Diego Melendez 👋
+# Diego Melendez
 
 **AI Project Manager | Data & Automation**
 
-I am a Master's Student in **Artificial Intelligence** based in **France**.
+I design and deploy AI and automation solutions that turn concrete problems into measurable gains. Based in Paris.
 
-Currently, I am an **AI Project Manager (Apprentice)** at *Serviceplan Group*.
-
----
-
-## 📋 About Me
-
-- 🎓 **Education**: Master in Artificial Intelligence & Master in Data Analytics.
-- 📍 **Location**: France.
-- 💼 **Current Role**: AI Project Manager at Serviceplan Group.
-- 🤖 **Interests**: AI Agents, Process Automation, Computer Vision, NLP.
-- 🗣️ **Languages**: Spanish, French, English.
+Currently AI Project Manager at **Serviceplan Group**, where I build automation and AI solutions on the Microsoft ecosystem and contribute to the group's AI Squad.
 
 ---
 
-## 🛠️ Tech Stack
+## Featured projects
 
-### Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**VIRALYTIC** - Multi-agent AI system for social-media crisis monitoring and response. Winner of the 2026 National Datathon (Nexa Digital School), briefed by the CNC. Built the n8n orchestration and the core API integrations.
 
-### AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-50E6FF?style=for-the-badge&logo=microsoft&logoColor=black)
+**Leadmarten** - SaaS that automates outbound company networking for the job search. Built end to end as Scrum Master and Technical Product Owner. React, TypeScript, Supabase, n8n, Apify, Vercel.
 
-### Visualization
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+**HMS - Home Management System** - Full-stack PWA centralizing tasks, inventory, meal planning, finances with invoice OCR, and smart-home control. In daily use.
+
+**CrUX Dashboard** - Automated Core Web Vitals monitoring for international websites. Python, CrUX API, GitHub Actions, Looker Studio.
+
+More at [diegomelendez.co/projects](https://diegomelendez.co/projects)
 
 ---
 
-## 💼 Professional Experience
+## Tech stack
 
-**Serviceplan Group** (Current)
-* Development of internal AI agents.
+**Languages & data** Python, TypeScript, SQL, PostgreSQL, Pandas, scikit-learn
 
-**Hager Group**
-* Built an automated reporting system for web performance metrics using Python and GitHub Actions.
-* Developed dashboards in Looker Studio for technical monitoring.
+**AI & automation** LLM integration, n8n, Copilot Studio, AI Builder, Power Automate, GitHub Actions, Apify
 
-**Suricats Consulting**
-* Conducted benchmarking and prototyping for Generative AI use cases.
+**Web** React, Vite, Tailwind, shadcn/ui, Supabase, Node, Vercel
+
+**Visualization** Looker Studio, Power BI, Matplotlib, Seaborn
 
 ---
 
-## 🔗 Links
+## Experience
 
-- 🌐 [Portfolio](https://diegomelendez.co)
-- 💼 [LinkedIn](https://www.linkedin.com/in/diego-melendez-ai/)
-- 📜 [Certifications (Wallet)](https://www.credential.net/profile/diegomelendez-ai/wallet)
-- 📧 [Email](mailto:contact@diegomelendez.co)
+**Serviceplan Group** - AI Project Manager
+Delivered 20+ automations and business applications on the Microsoft Power Platform. Built conversational agents with Copilot Studio. Member of the company's AI Squad (13 people). Trained 50+ colleagues on Copilot adoption.
 
-### 📊 GitHub Stats:
+**Suricats Consulting** - Generative AI Consultant
+Led a team on AI-augmented digital strategies. Benchmarked AI tools and prototyped solutions, defining concrete use cases for client process transformation.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomelendez-ai&show_icons=true&hide_rank=true&custom_title=Diego%20Melendez&theme=radical)
-<!--
-**diegomelendez-ai/diegomelendez-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hager Group** - Technical SEO & Analytics
+Built an automated Core Web Vitals reporting system from scratch with Python and GitHub Actions. Collaborated with the AI team on an internal conversational agent for SEO support.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+
+MSc in Artificial Intelligence (Nexa Digital School) and MSc in Digital Marketing & Data Analytics (EMLV, Dean's List). France Excellence Eiffel Scholarship, French Ministry for Europe and Foreign Affairs.
+
+---
+
+## Links
+
+[Portfolio](https://diegomelendez.co) · [LinkedIn](https://www.linkedin.com/in/diego-melendez-ai/) · [Certifications](https://www.credential.net/profile/diegomelendez-ai/wallet) · [contact@diegomelendez.co](mailto:contact@diegomelendez.co)
